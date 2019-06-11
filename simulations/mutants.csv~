@@ -1,0 +1,7 @@
+mutant,h1,h2
+blh_blh,l_wt,l_wt
+blh_flh,l_wt,c_wt
+blh_a1flh,l_wt,c_a1
+blh_a3flh,l_wt,c_a3
+a3blh_blh,l_a3,l_wt
+a3blh_flh,l_a3,c_wt
